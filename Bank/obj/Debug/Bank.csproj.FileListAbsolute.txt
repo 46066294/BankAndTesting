@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe
+c:\users\admin\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.exe
+c:\users\admin\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.pdb

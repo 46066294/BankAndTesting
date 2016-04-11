@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Bank\BankTesting\obj\Debug\BankTesting.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Bank\BankTesting\bin\Debug\BankTesting.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Bank\BankTesting\bin\Debug\BankTesting.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Bank\BankTesting\bin\Debug\Bank.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Bank\BankTesting\bin\Debug\Bank.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Bank\BankTesting\obj\Debug\BankTesting.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Bank\BankTesting\obj\Debug\BankTesting.pdb
